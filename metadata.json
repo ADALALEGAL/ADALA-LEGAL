@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Adala Legal - عدالة للاستشارات القانونية",
+  "description": "منصة متطورة لتقديم الاستشارات القانونية وخدمات الكاتب العدل بشكل رقمي وسهل.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
